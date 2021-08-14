@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrimaulidan99&theme=flag-india)](https://github.com/fikrimaulidan99/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikrimaulidan99&repo=Dice_Roller)](https://github.com/anuraghazra/github-readme-stats)
+
 
