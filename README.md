@@ -9,3 +9,4 @@ fikrimaulidan99/fikrimaulidan99 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrimaulidan99)](https://github.com/fikrimaulidan99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrimaulidan99)](https://github.com/fikrimaulidan99/github-readme-stats)
