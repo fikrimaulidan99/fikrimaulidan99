@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Fikri Maulidan
 - 👀 I’m interested in Android Programming
-- 🌱 I know Kotlin, Java, PHP, CSS, HTML, Golang, C++, C, C#, Pascal, COBOL. 
-- Yes, I have learned a ton of language from internet 🤮 ..
-      But, it doesn't mean I'm mastering all of them 😝...
+- 🌱 I know Kotlin, Java, PHP, CSS, HTML, Golang, C++, Pascal, COBOL. 
 - 📫 How to reach me: fikrimaulidan99@gmail.com
 
 <!---
