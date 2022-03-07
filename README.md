@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fikri Maulidan
-- 👀 I’m interested in Android Programming
-- 🌱 I know Kotlin, Java, PHP, CSS, HTML, Golang, C++, Pascal, COBOL. 
+- 👀 I’m interested in Android Programming with Flutter
+- 🌱 I know Dart 
 - 📫 How to reach me: fikrimaulidan99@gmail.com
 
 <!---
