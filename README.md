@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fikri Maulidan
 - 👀 I’m interested in Android Programming with Flutter
 - 🌱 I know Dart 
-- 📫 How to reach me: fikrimaulidan99@gmail.com
+- 📫 How to reach me: --
 
 <!---
 fikrimaulidan99/fikrimaulidan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
